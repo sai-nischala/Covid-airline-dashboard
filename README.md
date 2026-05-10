@@ -28,6 +28,9 @@ During the COVID-19 pandemic in 2020, U.S. airline passenger traffic dropped by 
 - Tableau Dashboard Workbook (.twbx)
 - Cleaned datasets (.xlsx)
 - Dashboard screenshots
+  
+ ## Dashboard Preview
+![Dashboard](COVID-19 Airline Impact.png)
 
 ## Author
 Sai Nischala Kuchibhotla
